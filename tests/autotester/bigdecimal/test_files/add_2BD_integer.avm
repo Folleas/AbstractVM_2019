@@ -1,0 +1,6 @@
+push bigdecimal(10)
+push bigdecimal(10)
+add
+dump
+exit
+;;

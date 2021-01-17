@@ -1,0 +1,5 @@
+push double(1234.333333333)
+push double(100.333)
+mul
+dump
+exit

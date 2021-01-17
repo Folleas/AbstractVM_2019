@@ -1,0 +1,6 @@
+push bigdecimal(102.123456789123)
+push double(30.987654321)
+mul
+dump
+exit
+;;

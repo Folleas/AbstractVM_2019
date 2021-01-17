@@ -1,0 +1,5 @@
+push bigdecimal(2)
+push float(2)
+sub
+dump
+exit

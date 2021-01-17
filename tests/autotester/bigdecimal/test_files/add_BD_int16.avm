@@ -1,0 +1,6 @@
+push bigdecimal(3234.45678)
+push int16(2000)
+add
+dump
+exit
+;;

@@ -1,0 +1,5 @@
+push float(13.20)
+push float(5.20)
+div
+dump
+exit

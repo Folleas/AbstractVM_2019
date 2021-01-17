@@ -1,0 +1,6 @@
+push bigdecimal(145)
+push bigdecimal(1300.23456)
+mul
+dump
+exit
+;;

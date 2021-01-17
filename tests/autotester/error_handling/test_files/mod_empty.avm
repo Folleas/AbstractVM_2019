@@ -1,0 +1,5 @@
+push int8(12)
+mod
+dump
+exit
+;;

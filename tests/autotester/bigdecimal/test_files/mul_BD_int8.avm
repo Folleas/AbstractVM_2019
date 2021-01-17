@@ -1,0 +1,6 @@
+push int8(46)
+push bigdecimal(136.904312)
+mul
+dump
+exit
+;;

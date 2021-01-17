@@ -1,0 +1,5 @@
+push int16(12456)
+push int16(8424)
+div
+dump
+exit

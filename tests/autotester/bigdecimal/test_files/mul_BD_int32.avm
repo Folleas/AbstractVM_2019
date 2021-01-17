@@ -1,0 +1,6 @@
+push bigdecimal(3234.45678)
+push int32(230)
+mul
+dump
+exit
+;;

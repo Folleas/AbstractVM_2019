@@ -1,0 +1,5 @@
+push int16(124)
+push int16(84)
+mul
+dump
+exit

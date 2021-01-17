@@ -1,0 +1,5 @@
+push float(714.5465)
+push double(8253.98745947)
+add
+dump
+exit

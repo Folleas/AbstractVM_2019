@@ -1,0 +1,5 @@
+push int16(3545)
+push double(74.32548784)
+mul
+dump
+exit

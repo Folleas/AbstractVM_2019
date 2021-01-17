@@ -1,0 +1,5 @@
+push int8(86)
+push int16(17842)
+add
+dump
+exit

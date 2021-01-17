@@ -1,0 +1,5 @@
+push int8(124)
+push double(86.478544158)
+mul
+dump
+exit

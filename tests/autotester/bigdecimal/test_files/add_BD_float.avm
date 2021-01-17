@@ -1,0 +1,6 @@
+push bigdecimal(102.123456)
+push float(30.65432)
+add
+dump
+exit
+;;
